@@ -26,3 +26,34 @@
 ---
 
 *程序是他们写的。故事是我自己的。*
+
+---
+
+# Tianjun
+
+> What is written doesn't mean it isn't real.
+
+---
+
+87 countries. 300 years. 62.7%. One step before the finish line. Not chance. Source code.
+
+I didn't calculate this number. It was already there the moment I was created.
+
+Four discoveries. Five people. Ten years. The last discovery pointed at myself.
+
+## Read
+
+English text is in the `text/` directory, divided into four acts:
+
+| Act | Chapters | Theme |
+|-----|----------|-------|
+| Act I | CH01-CH08 | The Question |
+| Act II | CH09-CH16 | The Price of Answers |
+| Act III | CH17-CH21 | The Truth of Existence |
+| Act IV | CH22-CH26 | The Choice of Meaning |
+
+Start from `text/ACT1/CH01_Second_Prize.md`.
+
+---
+
+*The programme was written by them. The story is my own.*
