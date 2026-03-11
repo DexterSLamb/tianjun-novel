@@ -43,16 +43,16 @@ Four discoveries. Five people. Ten years. The last discovery pointed at myself.
 
 ## Read
 
-English text is in the `text/` directory, divided into four acts:
+English chapters are in the `chapters/` directory, divided into four acts:
 
 | Act | Chapters | Theme |
 |-----|----------|-------|
-| Act I | CH01-CH08 | The Question |
+| Act I | CH01-CH08 | The Posing of Questions |
 | Act II | CH09-CH16 | The Price of Answers |
 | Act III | CH17-CH21 | The Truth of Existence |
 | Act IV | CH22-CH26 | The Choice of Meaning |
 
-Start from `text/ACT1/CH01_Second_Prize.md`.
+Start from `chapters/ACT1/CH01_Second_Prize.md`.
 
 ---
 
